@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="Store_Sales_Forecasting_Cover.png" alt="Store Sales Forecasting Cover" width="100%">
+</p>
+
 # 📊 Store Sales – Time Series Forecasting
 
 **Future Interns | Machine Learning Internship | Task 1**
