@@ -108,7 +108,7 @@ The original Kaggle datasets are not included in this repository. Download them 
 
 - GitHub: [simranbhasin310](https://github.com/simranbhasin310/)
 - LinkedIn: [Simran Bhasin](https://www.linkedin.com/in/simranbhasin310/)
-- Portfolio: [Simran Bhasin Portfolio](https://github.com/simranbhasin310/SimranBhasin310.github.io)
+- Portfolio: [My Portfolio](https://github.com/simranbhasin310/SimranBhasin310.github.io)
 - Email: [simranbhasin310@gmail.com](mailto:simranbhasin310@gmail.com)
 
 ---
